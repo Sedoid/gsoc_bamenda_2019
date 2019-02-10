@@ -1,2 +1,6 @@
-# gsoc_bamenda_2019
-Gsoc demo
+#include <iostream>
+ using namespace std ;
+  int main() {
+  count<<" hello world";
+  return 0;
+ } 
